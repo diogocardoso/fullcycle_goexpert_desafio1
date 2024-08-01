@@ -1,4 +1,4 @@
-module github.com/diogocardoso/fullcycle/pos_go/desafio_1
+module github.com/diogocardoso/fullcycle_goexpert_desafio1
 
 go 1.21.3
 
